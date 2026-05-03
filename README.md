@@ -6,6 +6,9 @@ We split the work across four Python scripts, each handling a different part of 
 
 ---
 
+## Dataset Link:
+https://www.kaggle.com/datasets/ghousethanedar/smiledetection
+
 ## Project Structure
 
 ```
