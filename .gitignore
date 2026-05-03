@@ -1,0 +1,6 @@
+test_folder/
+train_folder/
+.DS_Store
+__pycache__/
+*.zip
+*.h5
